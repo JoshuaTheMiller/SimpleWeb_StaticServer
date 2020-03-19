@@ -4,11 +4,11 @@
 
 <div align="center">
 
-[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/TheFlyingCaveman/SimpleWeb_StaticServer)
+[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/JoshuaTheMiller/SimpleWeb_StaticServer)
 
-![Docker Build Status](https://img.shields.io/docker/build/trfc/simpleweb)
+[![Docker Build Status](https://img.shields.io/docker/build/trfc/simpleweb)](https://hub.docker.com/repository/docker/trfc/simpleweb)
 
-![Docker Pulls](https://img.shields.io/docker/pulls/trfc/simpleweb)
+[![Docker Pulls](https://img.shields.io/docker/pulls/trfc/simpleweb)](https://hub.docker.com/repository/docker/trfc/simpleweb)
 
 </div>
 
