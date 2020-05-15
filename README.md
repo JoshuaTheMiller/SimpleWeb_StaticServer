@@ -1,14 +1,12 @@
+<div align="center">
+
 # SimpleWeb
 
 *A simple dockerized website for testing servers.*
 
-<div align="center">
+[![MIT License](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/JoshuaTheMiller/SimpleWeb_StaticServer) 
 
-[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/JoshuaTheMiller/SimpleWeb_StaticServer)
-
-[![Docker Build Status](https://img.shields.io/docker/build/trfc/simpleweb)](https://hub.docker.com/repository/docker/trfc/simpleweb)
-
-[![Docker Pulls](https://img.shields.io/docker/pulls/trfc/simpleweb)](https://hub.docker.com/repository/docker/trfc/simpleweb)
+[![Docker Build Status](https://img.shields.io/docker/build/trfc/simpleweb?style=flat-square)][docker] [![Docker Pulls](https://img.shields.io/docker/pulls/trfc/simpleweb?style=flat-square)][docker]
 
 </div>
 
@@ -26,3 +24,5 @@ sudo docker stop simpleweb
 # To monitor
 sudo docker stats simpleweb
 ```
+
+ [docker]: https://hub.docker.com/repository/docker/trfc/simpleweb
